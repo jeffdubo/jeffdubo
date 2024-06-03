@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jeff DuBois @jeffdubo
-- 👀 I’m a junior data analyst with a background in nonproft operations
-- 🌱 I’m currently learning Power BI and expanding my knowledge in statistics and SQL
-- ✨ I'm creative with a sense of humor and hands-on collaborative approach
+- 👋 Hi, I’m Jeff DuBois.
+- 👀 I’m a junior data analyst with a background in nonproft operations.
+- 🌱 I’m currently learning Power BI and expanding my knowledge in statistics and SQL.
+- ✨ I'm creative with a sense of humor and hands-on collaborative approach.
 - 😄 Pronouns: he/him
 
 <!---
